@@ -1,2 +1,2 @@
 # blackhacktools
-Experimenting with condigo for hacking with Python
+Experimenting using coding for hacking with Python / spanish comment
